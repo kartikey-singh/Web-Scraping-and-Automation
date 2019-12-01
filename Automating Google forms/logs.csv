@@ -1,0 +1,1100 @@
+2019-02-01 21:16:34
+Data Loaded Correctly
+Driver Loaded Successfully
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+2019-02-01 21:19:17
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                         Salman Khan
+Email                   salman@gmail.com
+Organization                   Bollywood
+Days                                   1
+Dietary restrictions                   1
+Payment                              Yes
+Name: 0, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                         Aamir Khan
+Email                   aamir@yahoo.com
+Organization                  Hollywood
+Days                                  2
+Dietary restrictions                  2
+Payment                             Yes
+Name: 1, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                            Akshay Kumar
+Email                   akshay@microsoft.com
+Organization                       Tollywood
+Days                                       3
+Dietary restrictions                       4
+Payment                                  Yes
+Name: 2, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Name                      Deepika Padukone
+Email                   deepika@rediff.com
+Organization                     Kollywood
+Days                                     1
+Dietary restrictions                     5
+Payment                                Yes
+Name: 3, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+2019-02-02 16:21:16
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"field1    as
+filed2    aa
+field3    ad
+field4    af
+Name: 0, dtype: object"
+Reached End of data.csv
+2019-02-05 14:47:35
+Data NOT Loaded Correctly EXITING ....
+2019-02-05 14:49:22
+Data NOT Loaded Correctly EXITING ....
+2019-02-05 17:42:55
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+2019-02-05 17:44:08
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver NOT Loaded Successfully EXITING ....
+2019-02-05 17:45:04
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Reached End of data.csv
+2019-02-05 17:45:10
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Reached End of data.csv
+2019-02-05 17:45:47
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Reached End of data.csv
+2019-02-05 17:53:55
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+2019-02-05 18:40:27
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+2019-02-05 18:47:17
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Reached End of data.csv
+2019-02-05 18:47:43
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Reached End of data.csv
+2019-02-05 18:48:15
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Reached End of data.csv
+2019-02-05 18:50:18
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 18:51:03
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 18:52:29
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 19:08:55
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 19:18:48
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 19:30:24
+Data Loaded Correctly
+Driver NOT Loaded Successfully EXITING ....
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Reached End of data.csv
+Driver NOT Loaded Successfully EXITING ....
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+Driver NOT Loaded Successfully EXITING ....
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Reached End of data.csv
+Driver NOT Loaded Successfully EXITING ....
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Reached End of data.csv
+Driver NOT Loaded Successfully EXITING ....
+Reached End of data.csv
+Closing Script
+2019-02-05 19:34:55
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 19:45:44
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username              abcd
+Password            abcdef
+Email              a@a.com
+Birth                 1992
+Gender                Male
+State       Andhra Pradesh
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username            defgh
+Password         wrteqteq
+Email             b@b.com
+Birth                1984
+Gender             Female
+State       Uttar Pradesh
+Name: 1, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username          gfsah
+Password    wt425trefsg
+Email           c@c.com
+Birth              1985
+Gender             Male
+State             Bihar
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username          ewtqe
+Password    wdgsagrwqt3
+Email           d@d.com
+Birth              1959
+Gender           Female
+State               Goa
+Name: 3, dtype: object"
+Reached End of data.csv
+Driver Loaded Successfully
+Reached End of data.csv
+Closing Script
+2019-02-05 19:59:15
+Data NOT Loaded Correctly EXITING ....
+2019-02-05 20:00:29
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+Name: 1, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                  gfsah
+Password            wt425trefsg
+Email       asafs.sadasd@qq.com
+Birth                      1985
+Gender                     male
+State                         4
+Name: 2, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username                     ewtqe
+Password               wdgsagrwqt3
+Email       afsfsf@dfdsfeafe22.com
+Birth                         1959
+Gender                      female
+State                           10
+Name: 3, dtype: object"
+Username NOT Entered Successfully
+Password NOT Entered Successfully
+Email NOT Entered Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver NOT Loaded Successfully EXITING ....
+2019-02-05 20:02:21
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+Name: 1, dtype: object"
+Reached End of data.csv
+2019-02-05 20:03:31
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+Name: 1, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                  gfsah
+Password            wt425trefsg
+Email       asafs.sadasd@qq.com
+Birth                      1985
+Gender                     male
+State                         4
+Name: 2, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username                     ewtqe
+Password               wdgsagrwqt3
+Email       afsfsf@dfdsfeafe22.com
+Birth                         1959
+Gender                      female
+State                           10
+Name: 3, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+2019-02-09 00:56:24
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+Name: 0, dtype: object"
+Reached End of data.csv
+2019-02-09 00:57:08
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+Name: 1, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                  gfsah
+Password            wt425trefsg
+Email       asafs.sadasd@qq.com
+Birth                      1985
+Gender                     male
+State                         4
+Name: 2, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username                     ewtqe
+Password               wdgsagrwqt3
+Email       afsfsf@dfdsfeafe22.com
+Birth                         1959
+Gender                      female
+State                           10
+Name: 3, dtype: object"
+Reached End of data.csv
+2019-02-09 01:03:08
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+checked                         False
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Checking Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+checked                        True
+Name: 1, dtype: object"
+Reached End of data.csv
+2019-02-09 01:07:47
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+checked                         False
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Checking Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+checked                        True
+Name: 1, dtype: object"
+Reached End of data.csv
+2019-02-09 01:12:04
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                         abcd
+Password                       abcdef
+Email       afdfddsgdsgddgdg@qqqq.com
+Birth                            1992
+Gender                           male
+State                               2
+checked                            NO
+Name: 0, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Checking Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                      defgh
+Password                   wrteqteq
+Email       hduash989s8a0@afffs.com
+Birth                          1984
+Gender                       female
+State                            33
+checked                         YES
+Name: 1, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Checking Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Username                  gfsah
+Password            wt425trefsg
+Email       asafs.sadasd@qq.com
+Birth                      1985
+Gender                     male
+State                         4
+checked                      NO
+Name: 2, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Checking Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Username                     ewtqe
+Password               wdgsagrwqt3
+Email       afsfsf@dfdsfeafe22.com
+Birth                         1959
+Gender                      female
+State                           10
+checked                         NO
+Name: 3, dtype: object"
+Username Entered Successfully
+Password Entered Successfully
+Email Entered Successfully
+Checking Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Reached End of data.csv

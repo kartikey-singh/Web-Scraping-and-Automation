@@ -1,0 +1,3 @@
+Ticker,Calls or Puts,Today Date,Time of Retrieval,contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney,Days left to Expiration,Underlying Price
+GLD,Calls,2019-01-29,17:40:52,GLD190215C00115500,115.5,USD,6.2,6.2,,,15,7.3,7.9,REGULAR,2019-02-15,2019-01-23 00:04:02,0.18262536132812499,True,17,263.78
+GLD,Calls,2019-01-29,17:40:52,GLD190215C00123500,123.5,USD,0.9,0.9,,184.0,67,0.9,0.93,REGULAR,2019-02-15,2019-01-26 02:28:55,0.09436940795898438,False,17,263.78

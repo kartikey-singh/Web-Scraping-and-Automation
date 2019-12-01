@@ -1,0 +1,30 @@
+1548817887617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tBOipIX2Ul5B"
+1548817888666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548817888666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:24959): LIBDBUSMENU-GLIB-WARNING **: 08:41:31.350: Unable to get session bus: Error spawning command line “dbus-launch --autolaunch=27c0ae03d4534c54a9b9088a9c54ed88 --binary-syntax --close-stderr”: Child process exited with code 1
+1548817892931	Marionette	INFO	Listening on port 37353
+1548817893060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548817893066	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44343","noProxy":[],"sslProxy":"127.0.0.1:44343"}
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+1548817954535	Marionette	INFO	Stopped listening on port 37353
+[Parent 24959, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 24959, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548817957639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l0YKsPOJUAyU"
+1548817957938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548817957938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:26421): LIBDBUSMENU-GLIB-WARNING **: 08:42:39.913: Unable to get session bus: Error spawning command line “dbus-launch --autolaunch=27c0ae03d4534c54a9b9088a9c54ed88 --binary-syntax --close-stderr”: Child process exited with code 1
+1548817960712	Marionette	INFO	Listening on port 35349
+1548817960814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548817960820	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40983","noProxy":[],"sslProxy":"127.0.0.1:40983"}
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.yO2avBX2agc.O/rt=j/d=1/rs=AMjVe6igWVZ5-Xl7Y-2bTVe0n91VtcVyew/m=viewer_base line 557 > eval, line 8: ReferenceError: chrome is not defined
+[Parent 26421, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 26421, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1548818020615	Marionette	INFO	Stopped listening on port 35349

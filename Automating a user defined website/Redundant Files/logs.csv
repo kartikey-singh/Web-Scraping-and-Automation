@@ -1,0 +1,136 @@
+2019-02-02 00:49:45
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                         Salman Khan
+Email                   salman@gmail.com
+Organization                   Bollywood
+Days                                   1
+Dietary restrictions                   1
+Payment                              Yes
+Name: 0, dtype: object"
+Name NOT Entered Successfully
+Email NOT Entered Successfully
+Organisation NOT Entered Successfully
+Attendance Day NOT Clicked Successfully
+Dietary Restrictions NOT Clicked Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                         Aamir Khan
+Email                   aamir@yahoo.com
+Organization                  Hollywood
+Days                                  2
+Dietary restrictions                  2
+Payment                             Yes
+Name: 1, dtype: object"
+Name NOT Entered Successfully
+Email NOT Entered Successfully
+Organisation NOT Entered Successfully
+Attendance Day NOT Clicked Successfully
+Dietary Restrictions NOT Clicked Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                            Akshay Kumar
+Email                   akshay@microsoft.com
+Organization                       Tollywood
+Days                                       3
+Dietary restrictions                       4
+Payment                                  Yes
+Name: 2, dtype: object"
+Name NOT Entered Successfully
+Email NOT Entered Successfully
+Organisation NOT Entered Successfully
+Attendance Day NOT Clicked Successfully
+Dietary Restrictions NOT Clicked Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Name                      Deepika Padukone
+Email                   deepika@rediff.com
+Organization                     Kollywood
+Days                                     1
+Dietary restrictions                     5
+Payment                                Yes
+Name: 3, dtype: object"
+Name NOT Entered Successfully
+Email NOT Entered Successfully
+Organisation NOT Entered Successfully
+Attendance Day NOT Clicked Successfully
+Dietary Restrictions NOT Clicked Successfully
+Pay $$ NOT Clicked Successfully
+Submit NOT Clicked Successfully
+Driver Loaded Successfully
+Reached End of data.csv
+2019-02-02 00:51:48
+Data Loaded Correctly
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.76.109', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                         Salman Khan
+Email                   salman@gmail.com
+Organization                   Bollywood
+Days                                   1
+Dietary restrictions                   1
+Payment                              Yes
+Name: 0, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '47.29.76.239', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                         Aamir Khan
+Email                   aamir@yahoo.com
+Organization                  Hollywood
+Days                                  2
+Dietary restrictions                  2
+Payment                             Yes
+Name: 1, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://google.com', 'X-Forwarded-For': '47.29.30.157', 'User-Agent': 'Mozilla/5.0 (Linux; Android 7.0; SM-J701F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36'}"
+"Name                            Akshay Kumar
+Email                   akshay@microsoft.com
+Organization                       Tollywood
+Days                                       3
+Dietary restrictions                       4
+Payment                                  Yes
+Name: 2, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+"{'Referer': 'https://yahoo.com', 'X-Forwarded-For': '42.106.0.185', 'User-Agent': 'Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; iBall_Andi4.5_Ripple Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'}"
+"Name                      Deepika Padukone
+Email                   deepika@rediff.com
+Organization                     Kollywood
+Days                                     1
+Dietary restrictions                     5
+Payment                                Yes
+Name: 3, dtype: object"
+Name Entered Successfully
+Email Entered Successfully
+Organisation Entered Successfully
+Attendance Day Clicked Successfully
+Dietary Restrictions Clicked Successfully
+Pay $$ Clicked Successfully
+Submit Clicked Successfully
+Driver Loaded Successfully
+Reached End of data.csv
